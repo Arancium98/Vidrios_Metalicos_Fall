@@ -1,4 +1,4 @@
-# Vidrios_Metalicos_Fall
+# Vidrios Metalicos Fall
 
 En este proyecto, se continuo trabajando el tema de los vidrios metálicos (Guiado por el Profesor Nicolás Amigo Ahumada) visto en el repositorio anterior, sin embargo, la data utilizada es otra.  
 
